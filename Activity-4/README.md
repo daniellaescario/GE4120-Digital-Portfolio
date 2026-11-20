@@ -35,7 +35,12 @@ In the future, I can apply these skills when preparing nursing reports, research
 
 ## My Activity 4 Output
 
-The presentation file will be uploaded here.
+### Group 5 - Google Docs Presentation
+
+This presentation discusses the features, functions, and importance of Google Docs in digital collaboration. It also includes an interactive activity to test understanding of the topic.
+
+**[📄 Click Here to View Our Complete Group Presentation](activity-4-group-presentation.pdf)**
+
 
 ---
 

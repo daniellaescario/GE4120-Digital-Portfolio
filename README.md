@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0808&height=190&section=header&text=DANIELLA%20SOFIA%20ESCARIO&fontSize=33&fontColor=FFFAF3&animation=fadeIn&fontAlignY=38&desc=GE%204120%20%7C%20DIGITAL%20PORTFOLIO&descSize=15&descAlignY=59" width="100%" alt="Daniella Sofia Escario - Digital Portfolio"/>
 
+<p align="center">
+  <img src="profile-photo.png"
+       alt="Daniella Sofia Escario"
+       width="180">
+</p>
+
 ### Bachelor of Science in Nursing
 **4th Year | Ateneo de Davao University**
 

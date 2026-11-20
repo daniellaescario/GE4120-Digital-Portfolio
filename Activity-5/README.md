@@ -42,8 +42,8 @@ However, I also learned that AI-generated clinical information must always be ve
 
 ### AI Tools and Prompt Engineering
 
-[📄 View My Complete Activity 5](activity-5-prompt-engineering.pdf)
-
+[📄 View My Complete Activity 5](activity-5-prompt-engineering.pdf.pdf)
+  
 ---
 
 [Back to Main Portfolio](../README.md)

@@ -33,10 +33,21 @@ In the future, I can apply these lessons when creating promotional materials, di
 - Creative design
 - Digital presentation
 
-## Activity Output
+## My Activity 2 Outputs
 
-The completed activity output will be uploaded to this folder.
+Here are the designs I created for this activity.
 
+### Personal Logo
+![Personal Logo](personal-logo.png)
+
+### Tagline Design
+![Tagline](tagline.png)
+
+### Color Palette and Typography
+![Color and Typography](color-and-typography.png)
+
+### Header Design
+![Header Design](header-design.png)
 ---
 
 [Back to Main Portfolio](../README.md)
